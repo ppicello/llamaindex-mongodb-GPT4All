@@ -3,7 +3,7 @@
 ![header](/docs/header.png?raw=true "header")
 
 > **Note**
-> I am still very new to LlamaIndex and generative AI in general and the reason why I started this repo was to start learning a bit more on that and start exploring the capabilities we will have in this domain. Obviously this is not intended to be production-ready or not even poc-ready I'd say. This is just a fun experiment!
+> I am still very new to LlamaIndex and generative AI in general and the reason why I started this repo was to start learning a bit more on that and start exploring the capabilities we will have in this domain. Obviously this is not intended to be production-ready or not even poc-ready. This is just a fun experiment!
 
 This repo contains a Python notebook to show how you can integrate MongoDB with [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) to use your own private data with tools like ChatGPT. Your data are fed into the LLM using a technique called "in-context learning".  To do so we leverage the Mongo Loader available in [LlamaHub](https://llamahub.ai/l/mongo). 
 A big part of this exercise was to demonstrate how you can use a locally running model like [GPT4All](https://gpt4all.io/index.html) instead of OpenAI ChatGPT, and [HuggingFace](https://huggingface.co/) transformers .
