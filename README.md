@@ -14,7 +14,7 @@ The step are explained in the notebook but basically we leveraged the `sample_mf
 ![movie](/docs/paolopicellomovie.png?raw=true "movie")
 
 
-I then provided the following question to out system:
+I then provided the following question to the system:
 
 `What is the name of the movie that talks about a computer engineer trying to build a demo of how you can leverage AI tools to answer questions around data stored in MongoDB?"`
 
@@ -23,6 +23,9 @@ and the system answer:
 `The name of the movie is "PaoLo Picello".`
 
 Interestingly, the system was able to get my name out of its corpus. This is not the exact name we specified in the MongoDB document ("The Paolo Picello movie") but it's still a quite impressive result. 
+
+![movie](/docs/response.png?raw=true "movie")
+
 
 > **Note**
 > The system allucinate quite a lot, giving most of the times pretty random results. But it's still fascinating to see the system able to get my name out as response. 
@@ -34,7 +37,12 @@ Interestingly, the system was able to get my name out of its corpus. This is not
 - Run on GPU (before that I need to buy a GPU lol)
 - Improve the Mongo Loader available in LlamaHub. You have too little control over the document creation. 
 
-![movie](/docs/response.png?raw=true "movie")
+## Credits
+
+This notebook is inspired by the [LlamaIndex - Local Model Demo.ipynb](LlamaIndex - Local Model Demo.ipynb) notebook referred in the [LlamaIndex documentation](https://gpt-index.readthedocs.io/en/latest/guides/tutorials.html).
+
+
+
 
 
 
