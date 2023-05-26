@@ -40,7 +40,7 @@ Interestingly, the system was able to get my name out of its corpus. This is not
 
 ## Credits
 
-This notebook is inspired by the [LlamaIndex - Local Model Demo.ipynb](LlamaIndex - Local Model Demo.ipynb) notebook referred in the [LlamaIndex documentation](https://gpt-index.readthedocs.io/en/latest/guides/tutorials.html).
+This notebook is inspired by the [LlamaIndex - Local Model Demo.ipynb](https://colab.research.google.com/drive/16QMQePkONNlDpgiltOi7oRQgmB8dU5fl?usp=sharing) notebook referred in the [LlamaIndex documentation](https://gpt-index.readthedocs.io/en/latest/guides/tutorials.html).
 
 
 We welcome comments and contribution!!
