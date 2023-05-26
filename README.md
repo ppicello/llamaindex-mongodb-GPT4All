@@ -9,7 +9,7 @@ This repo contains a Python notebook to show how you can integrate MongoDB with 
 A big part of this exercise was to demonstrate how you can use a locally running model like [GPT4All](https://gpt4all.io/index.html) instead of OpenAI ChatGPT, and [HuggingFace](https://huggingface.co/) transformers .
 All the code can be executed completely on CPU.
 
-The step are explained in the notebook but basically we leveraged the `sample_mflix-movies` collection part of the sample dataset available in [MongoDB Atlas](https://www.mongodb.com/atlas/database). We index the documents in the collection and on top of them I created a fictitious document for a fictitious movie called "The Paolo Picello movie", describing the life of a Solutions Architect trying to build cool apps with AI and MongoDB.
+The step are explained in the notebook but basically I leveraged the `sample_mflix-movies` collection part of the sample dataset available in [MongoDB Atlas](https://www.mongodb.com/atlas/database). We index the documents in the collection and on top of them I created a fictitious document for a fictitious movie called `"The Paolo Picello movie"`, describing the life of a Solutions Architect trying to build cool apps with AI and MongoDB.
 
 ![movie](/docs/paolopicellomovie.png?raw=true "movie")
 
