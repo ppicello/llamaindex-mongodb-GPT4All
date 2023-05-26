@@ -38,7 +38,7 @@ Interestingly, the system was able to get my name out of its corpus. This is not
 - Run on GPU (before that I need to buy a GPU lol)
 - Improve the Mongo Loader available in LlamaHub. You have too little control over the document creation. 
 
-## Credits
+## Credits
 
 This notebook is inspired by the [LlamaIndex - Local Model Demo.ipynb](LlamaIndex - Local Model Demo.ipynb) notebook referred in the [LlamaIndex documentation](https://gpt-index.readthedocs.io/en/latest/guides/tutorials.html).
 
