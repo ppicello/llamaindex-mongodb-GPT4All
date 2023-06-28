@@ -32,7 +32,7 @@ Interestingly, the system was able to get my name out of its corpus. This is not
 
 ## Possibile next steps
 
-- Levearage a vector database to store the indexes
+- Levearage MongoDB Atlas as vector database
 - Find a much more relevant example/use case
 - Integrate with [HuggingChat](https://huggingface.co/chat/)
 - Run on GPU (before that I need to buy a GPU lol)
